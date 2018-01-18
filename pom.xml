@@ -8,5 +8,6 @@
   <modules>
     <module>spring4</module>
     <module>springmvc4</module>
+    <module>springboot-bootstrap-angular</module>
   </modules>
 </project>
