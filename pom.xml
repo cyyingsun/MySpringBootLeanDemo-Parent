@@ -9,5 +9,6 @@
     <module>spring4</module>
     <module>springmvc4</module>
     <module>springboot-bootstrap-angular</module>
+    <module>springboot-jpa-rest</module>
   </modules>
 </project>
