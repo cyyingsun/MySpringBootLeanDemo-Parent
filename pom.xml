@@ -10,5 +10,6 @@
     <module>springmvc4</module>
     <module>springboot-bootstrap-angular</module>
     <module>springboot-jpa-rest</module>
+    <module>springboot-mybatis-rest</module>
   </modules>
 </project>
