@@ -19,4 +19,9 @@ public class CityRestController {
 	public City findOneCity(@RequestParam(value="cityName",required=true) String cityName) {
 		return cityService.findCityByName(cityName);
 	}
+	
+	@RequestMapping(value="/hello")
+	public String hello() {
+		return "Hello Unit Test";
+	}
 }
