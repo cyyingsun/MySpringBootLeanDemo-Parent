@@ -12,5 +12,6 @@
     <module>springboot-jpa-rest</module>
     <module>springboot-mybatis-rest</module>
     <module>springboot-mybatis-redis-rest</module>
+    <module>springboot-mybatis-annotion</module>
   </modules>
 </project>
