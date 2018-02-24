@@ -13,5 +13,7 @@
     <module>springboot-mybatis-rest</module>
     <module>springboot-mybatis-redis-rest</module>
     <module>springboot-mybatis-annotion</module>
+    <module>springboot-rabbitmq</module>
+    <module>sprintboot-rabbitmq</module>
   </modules>
 </project>
