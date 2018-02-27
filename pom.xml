@@ -15,5 +15,6 @@
     <module>springboot-mybatis-annotion</module>
     <module>springboot-rabbitmq</module>
     <module>sprintboot-rabbitmq</module>
+    <module>springboot-mongodb</module>
   </modules>
 </project>
