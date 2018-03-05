@@ -16,5 +16,6 @@
     <module>springboot-rabbitmq</module>
     <module>sprintboot-rabbitmq</module>
     <module>springboot-mongodb</module>
+    <module>springboot-shiro</module>
   </modules>
 </project>
